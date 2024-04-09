@@ -1,0 +1,10 @@
+A média é:36.06666666666667
+Ricardo Eletro esta abaixo da media com o preço de R$: 35.0 e o telefone é: 56748006
+Ponto Frio esta abaixo da media com o preço de R$: 25.0 e o telefone é: 68298006
+Danilo esta abaixo da media com o preço de R$: 32.0 e o telefone é: 68298006
+Pedro esta abaixo da media com o preço de R$: 10.0 e o telefone é: 68298006
+Mercadinho big bom esta abaixo da media com o preço de R$: 5.0 e o telefone é: 68298006
+Seu jÃ³ esta abaixo da media com o preço de R$: 32.0 e o telefone é: 68298006
+Puts esta abaixo da media com o preço de R$: 10.0 e o telefone é: 68298006
+Topa tudo esta abaixo da media com o preço de R$: 31.0 e o telefone é: 68298006
+Kabum esta abaixo da media com o preço de R$: 35.0 e o telefone é: 68298006
